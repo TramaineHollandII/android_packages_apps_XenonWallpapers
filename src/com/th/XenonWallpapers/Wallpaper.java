@@ -9,7 +9,6 @@
 
 package com.th.XenonWallpapers;
 
-import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
 import android.app.WallpaperManager;
 import android.content.Context;
@@ -35,7 +34,6 @@ import android.widget.LinearLayout;
 import java.io.IOException;
 import java.util.ArrayList;
 
-@SuppressLint("ParserError")
 public class Wallpaper extends FragmentActivity {
 
     /**
