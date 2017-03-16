@@ -31,6 +31,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+import com.th.XenonWallpapers.PagerSlidingTabStrip;
+
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -79,12 +81,10 @@ public class Wallpaper extends FragmentActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // Create the adapter that will return a fragment for each of the three primary sections
-        // of the app.
-        mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
-
-        // Set up the ViewPager with the sections adapter.
         mViewPager = (ViewPager) findViewById(R.id.pager);
+        PagerSlidingTabStrip tabs = (PagerSlidingTabStrip) findViewById(R.id.tabs);
+        tabs.setViewPager(pager);
+        mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
         mViewPager.setAdapter(mSectionsPagerAdapter);
         mViewPager.setOnPageChangeListener(new SimpleOnPageChangeListener(){
             public void onPageSelected(int position) {
@@ -98,7 +98,7 @@ public class Wallpaper extends FragmentActivity {
         final String packageName = getApplication().getPackageName();
 
         fetchWallpapers(resources, packageName, R.array.wallpapers);
-	mSectionsPagerAdapter.notifyDataSetChanged();
+        mSectionsPagerAdapter.notifyDataSetChanged();
         mWallpaperInfo = resources.getStringArray(R.array.info);
     }
 
