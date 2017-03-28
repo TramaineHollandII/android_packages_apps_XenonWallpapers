@@ -9,64 +9,162 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-    <item>wallpaper_0</item>
-    <item>wallpaper_1</item>
-    <item>wallpaper_2</item>
-    <item>wallpaper_3</item>
-    <item>wallpaper_4</item>
-    <item>wallpaper_5</item>
-    <item>wallpaper_6</item>
-    <item>wallpaper_7</item>
-    <item>wallpaper_8</item>
-	<item>wallpaper_9</item>
-	<item>wallpaper_10</item>
-	<item>wallpaper_11</item>
-	<item>wallpaper_12</item>
-	<item>wallpaper_13</item>
-	<item>wallpaper_14</item>
-	<item>wallpaper_15</item>
-	<item>wallpaper_16</item>
-	<item>wallpaper_17</item>
-	<item>wallpaper_18</item>
-	<item>wallpaper_19</item>
-	<item>wallpaper_20</item>
-	<item>wallpaper_21</item>
-	<item>wallpaper_22</item>
-	<item>wallpaper_23</item>
-	<item>wallpaper_24</item>
-	<item>wallpaper_25</item>
-	<item>wallpaper_26</item>
-	<item>wallpaper_27</item>
+    <item>wall_01</item>
+    <item>wall_02</item>
+    <item>wall_03</item>
+    <item>wall_04</item>
+    <item>wall_05</item>
+    <item>wall_06</item>
+    <item>wall_07</item>
+    <item>wall_08</item>
+	<item>wall_09</item>
+	<item>wall_10</item>
+	<item>wall_11</item>
+	<item>wall_12</item>
+	<item>wall_13</item>
+	<item>wall_14</item>
+	<item>wall_15</item>
+	<item>wall_16</item>
+	<item>wall_17</item>
+	<item>wall_18</item>
+	<item>wall_19</item>
+	<item>wall_20</item>
+	<item>wall_21</item>
+	<item>wall_22</item>
+	<item>wall_23</item>
+	<item>wall_24</item>
+	<item>wall_25</item>
+	<item>wall_26</item>
+	<item>wall_27</item>
+    <item>wall_28</item>
+    <item>wall_29</item>
+    <item>wall_30</item>
+    <item>wall_31</item>
+    <item>wall_32</item>
+    <item>wall_33</item>
+    <item>wall_34</item>
+    <item>wall_35</item>
+    <item>wall_36</item>
+	<item>wall_37</item>
+	<item>wall_38</item>
+	<item>wall_39</item>
+	<item>wall_40</item>
+	<item>wall_41</item>
+	<item>wall_42</item>
+	<item>wall_43</item>
+	<item>wall_44</item>
+	<item>wall_45</item>
+	<item>wall_46</item>
+	<item>wall_47</item>
+	<item>wall_48</item>
+	<item>wall_49</item>
+	<item>wall_50</item>
+	<item>wall_51</item>
+	<item>wall_52</item>
+	<item>wall_53</item>
+	<item>wall_54</item>
+	<item>wall_55</item>
+    <item>wall_56</item>
+    <item>wall_57</item>
+    <item>wall_58</item>
+    <item>wall_59</item>
+    <item>wall_60</item>
+    <item>wall_61</item>
+	<item>wall_62</item>
+	<item>wall_63</item>
+	<item>wall_64</item>
+	<item>wall_65</item>
+	<item>wall_66</item>
+	<item>wall_67</item>
+	<item>wall_68</item>
+	<item>wall_69</item>
+	<item>wall_70</item>
+	<item>wall_71</item>
+	<item>wall_72</item>
+	<item>wall_73</item>
+	<item>wall_74</item>
+	<item>wall_75</item>
+	<item>wall_76</item>
+	<item>wall_77</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>IceandFire :: Zpecter</item>
-    <item>Colors :: Zpecter</item>
-    <item>Astounding Colors</item>
-    <item>Carbon Fibre :: Zpecter</item>
-    <item>Lines :: Zpecter</item>
-    <item>XeHD Graphite :: JaiThemes</item>
-    <item>XeHD :: iceandfire</item>
-    <item>XeHD Light :: iceandfire</item>
-    <item>XenonHD :: RickerBilly</item>
-	<item>XenonHD Blue :: RickerBilly</item>
-	<item>Xe :: RickerBilly</item>
-	<item>Element Xenon :: RickerBilly</item>
-	<item>Dark Xenon :: Dominik Horvath</item>
-	<item>Gradient :: Dominik Horvath</item>
-	<item>Xenon :: wad3g</item>
-	<item>Xenon :: wad3g</item>
-	<item>Gold XenonHD :: wad3g</item>
-	<item>XenonHD :: Dominik Horvath</item>
-	<item>Solar :: Adam80460</item>
-	<item>Android Rush :: Adam80460</item>
-	<item>Android Green :: Adam80460</item>
-	<item>XenonHD :: Vicino</item>
-	<item>XenonHD :: Vicino</item>
-	<item>XenonHD :: Vicino</item>
-	<item>XenonHD :: Vicino</item>
-	<item>XenonHD :: Vicino</item>
-	<item>XenonHD :: Vicino</item>
-	<item>Proto :: Pr0xyMan1ac</item>
+    <item>Voyage to Elsewhere</item>
+    <item>Brushstroke in Space</item>
+    <item>Poly</item>
+    <item>Into the Void</item>
+    <item>Painting in the Rain</item>
+    <item>Terraform</item>
+    <item>Stroke of Genius</item>
+    <item>Stairway</item>
+	<item>Distortions</item>
+	<item>Vigilant Island</item>
+	<item>Jumping Paint</item>
+	<item>Onyx</item>
+	<item>Chrome</item>
+	<item>Champagne</item>
+	<item>Ceramic</item>
+	<item>Contrast</item>
+	<item>Caged Planet</item>
+	<item>Bloom</item>
+	<item>Ethereal Bloom</item>
+	<item>Unnamed</item>
+	<item>Spotlight</item>
+	<item>Unpaid Cable Bill</item>
+	<item>Skyline</item>
+	<item>Focal</item>
+	<item>Shatter</item>
+	<item>Nameless</item>
+	<item>Unknown</item>
+    <item>Night Sky</item>
+    <item>Misty Mountains</item>
+    <item>Caved In</item>
+    <item>Lava</item>
+    <item>In Space</item>
+    <item>Holi</item>
+    <item>Hans</item>
+    <item>Mystic Volcano</item>
+    <item>Cyberpunk</item>
+	<item>Climbing Rainbow Rocks</item>
+	<item>Another Ocean</item>
+	<item>Abyss</item>
+	<item>Landscape</item>
+	<item>Tree 1</item>
+	<item>Galaxy</item>
+	<item>Soapy</item>
+	<item>Digitalizing and Morphing</item>
+	<item>Frozen in Time</item>
+	<item>Cave</item>
+	<item>Bits and Pieces</item>
+	<item>Spilled Pallette</item>
+	<item>Lines</item>
+	<item>Tree 2</item>
+	<item>Wave</item>
+	<item>Cave of Many Colors</item>
+	<item>Supernova</item>
+	<item>Above Rainbow Mountain</item>
+	<item>Future</item>
+    <item>Tree 3</item>
+    <item>Ribbons</item>
+    <item>Mountain Tops</item>
+    <item>UFO</item>
+    <item>Mineral Cave</item>
+    <item>Melting Candy</item>
+	<item>Cyberpunk Mountain</item>
+	<item>Stalactite</item>
+	<item>Candy Canyon</item>
+	<item>Neon Mountains</item>
+	<item>Color</item>
+	<item>Funnel</item>
+	<item>Peaks</item>
+	<item>Layers</item>
+	<item>Inside the Cave</item>
+	<item>Generations</item>
+	<item>Unidentified</item>
+	<item>Vintage</item>
+	<item>Dragon</item>
+	<item>Abstract Maze</item>
+	<item>Unknown</item>
+	<item>Anonymous</item>
     </string-array>
 </resources>
